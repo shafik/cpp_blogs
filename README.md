@@ -16,6 +16,7 @@
 - [Krister Walfridsson’s blog](https://kristerw.blogspot.com/) ([@kwalfridsson](https://twitter.com/kwalfridsson))
 - [LLVM Project Blog](http://blog.llvm.org/)
 - [Manu Sanchez blog](https://manu343726.github.io/) ([@Manu343726](https://twitter.com/Manu343726))
+- [Mathieu Ropert's blog](https://mropert.github.io/) ([@MatRopert](https://twitter.com/MatRopert))
 - [Meeting C++ Blogroll](https://www.meetingcpp.com/blog/blogroll/) ([@meetingcpp](https://twitter.com/meetingcpp))
 - [Michael Park's blog](https://mpark.github.io/programming/) ([@mcypark](https://twitter.com/mcypark))
 - [Modernes C++](https://www.modernescpp.com/) ([@rainer_grimm](https://twitter.com/rainer_grimm))
