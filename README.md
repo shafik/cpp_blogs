@@ -32,4 +32,4 @@
 - [Vittorio Romeo's blog](https://vittorioromeo.info/index.html) ([@supahvee1234](https://twitter.com/supahvee1234))
 - [Vorbrodt's C++ Blog](https://vorbrodt.blog/) ([@mvorbrodt](https://twitter.com/mvorbrodt/))
 - [Walletfox's Tiny cheatsheets for C++11/14/17](https://www.walletfox.com/course/cheatsheets_cpp.php) ([@walletfox](https://twitter.com/walletfox))
-- [Why is a raven like a like a writing desk](http://www.elbeno.com/blog/) ([@ben_deane](https://twitter.com/ben_deane))
+- [Why is a raven like a writing desk](http://www.elbeno.com/blog/) ([@ben_deane](https://twitter.com/ben_deane))
